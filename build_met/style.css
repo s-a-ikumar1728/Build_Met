@@ -1,0 +1,29 @@
+.btn-primary{
+    background:linear-gradient(45deg,black,blue) !important;
+    box-shadow: 0 0 15px blue;
+    border-bottom-left-radius: 75px !important;
+    border-top-right-radius: 75px !important;
+}
+.btn-success{
+    background:linear-gradient(45deg,black,green) !important;
+    box-shadow: 0 0 15px green;
+    border-bottom-left-radius: 75px !important;
+    border-top-right-radius: 75px !important;
+}
+.btn-danger{
+    background:linear-gradient(45deg,black,red) !important;
+    box-shadow: 0 0 15px red;
+    border-bottom-left-radius: 75px !important;
+    border-top-right-radius: 75px !important;
+}
+.card{
+    width: 400px !important;
+    border-radius: 50px;
+}
+img{
+    width: inherit !important;
+    height: 300px !important;
+    
+}
+
+
